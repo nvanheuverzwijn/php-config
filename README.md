@@ -2,6 +2,10 @@
 
 This library tries it's best to be lightweight and dependency free. The objective is to provide a standard configuration object, a pluggable  configuration source objects and a standard factory object to configure the configuration.
 
+## Build system requirements
+
+You need [docker](https://www.docker.com/) and [GNU make](https://www.gnu.org/software/make/manual/make.html).
+
 ## Tests
 
 Run below command
