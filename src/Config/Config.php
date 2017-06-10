@@ -5,6 +5,9 @@
 
 namespace Zwijn\Config;
 
+/**
+ * Use this object just like you would use an array.
+ */
 class Config implements \Zwijn\Config\ConfigInterface
 {
     /**
