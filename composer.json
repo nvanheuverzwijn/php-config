@@ -4,7 +4,7 @@
     "keywords": ["config", "configuration"],
     "homepage": "http://github.com/nvanheuverzwijn/php-config",
     "type": "library",
-    "license": "LGPL3.0",
+    "license": "LGPL-3.0-or-later",
     "authors": [
         {
             "name": "Nicolas Vanheuverzwijn",
